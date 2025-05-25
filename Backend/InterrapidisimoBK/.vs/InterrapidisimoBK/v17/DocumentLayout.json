@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\INTERAPIDISMO\\Backend\\InterrapidisimoBK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8D1ACC-CC29-494F-A6F8-BB4150405E16}|InterrapidisimoBK\\InterrapidisimoBK.csproj|c:\\users\\pc\\desktop\\interapidismo\\backend\\interrapidisimobk\\interrapidisimobk\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8D1ACC-CC29-494F-A6F8-BB4150405E16}|InterrapidisimoBK\\InterrapidisimoBK.csproj|solutionrelative:interrapidisimobk\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8D1ACC-CC29-494F-A6F8-BB4150405E16}|InterrapidisimoBK\\InterrapidisimoBK.csproj|c:\\users\\pc\\desktop\\interapidismo\\backend\\interrapidisimobk\\interrapidisimobk\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8D1ACC-CC29-494F-A6F8-BB4150405E16}|InterrapidisimoBK\\InterrapidisimoBK.csproj|solutionrelative:interrapidisimobk\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8D1ACC-CC29-494F-A6F8-BB4150405E16}|InterrapidisimoBK\\InterrapidisimoBK.csproj|c:\\users\\pc\\desktop\\interapidismo\\backend\\interrapidisimobk\\interrapidisimobk\\data\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8D1ACC-CC29-494F-A6F8-BB4150405E16}|InterrapidisimoBK\\InterrapidisimoBK.csproj|solutionrelative:interrapidisimobk\\data\\usuariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E8D1ACC-CC29-494F-A6F8-BB4150405E16}|InterrapidisimoBK\\InterrapidisimoBK.csproj|c:\\users\\pc\\desktop\\interapidismo\\backend\\interrapidisimobk\\interrapidisimobk\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E8D1ACC-CC29-494F-A6F8-BB4150405E16}|InterrapidisimoBK\\InterrapidisimoBK.csproj|solutionrelative:interrapidisimobk\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INTERAPIDISMO\\Backend\\InterrapidisimoBK\\InterrapidisimoBK\\Data\\Conexion.cs",
+              "RelativeDocumentMoniker": "InterrapidisimoBK\\Data\\Conexion.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\INTERAPIDISMO\\Backend\\InterrapidisimoBK\\InterrapidisimoBK\\Data\\Conexion.cs",
+              "RelativeToolTip": "InterrapidisimoBK\\Data\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T00:01:22.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioData.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INTERAPIDISMO\\Backend\\InterrapidisimoBK\\InterrapidisimoBK\\Data\\UsuarioData.cs",
+              "RelativeDocumentMoniker": "InterrapidisimoBK\\Data\\UsuarioData.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\INTERAPIDISMO\\Backend\\InterrapidisimoBK\\InterrapidisimoBK\\Data\\UsuarioData.cs",
+              "RelativeToolTip": "InterrapidisimoBK\\Data\\UsuarioData.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAUwEIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:45:14.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INTERAPIDISMO\\Backend\\InterrapidisimoBK\\InterrapidisimoBK\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "InterrapidisimoBK\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\INTERAPIDISMO\\Backend\\InterrapidisimoBK\\InterrapidisimoBK\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "InterrapidisimoBK\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:44:42.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\INTERAPIDISMO\\Backend\\InterrapidisimoBK\\InterrapidisimoBK\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "InterrapidisimoBK\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\INTERAPIDISMO\\Backend\\InterrapidisimoBK\\InterrapidisimoBK\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "InterrapidisimoBK\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:38:57.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
